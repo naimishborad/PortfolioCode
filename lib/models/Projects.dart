@@ -58,7 +58,7 @@ All changes are being done in app as well as back in firebase.
 link: 'https://github.com/naimishborad/TodoAppFlutter'
   ),
   Project(
-    title: "Portfolio Web App Hosted On Firebase",
+    title: "Portfolio Web App",
     description:
         '''This is my portfolio web app example that contains dart code.
 It is hosted on Firebase.To visit follow >> naimishpo.web.app . This project contains pakages like url_launcher(for make my social active),animated_text_kit,flutter_svg.This web App is fully responsive.
